@@ -50,5 +50,7 @@ https://github.com/devsuperior/java-web-spring-2022
 
 ------------------------
 ## Conteúdos sugeridos para aprofundar conhecimentos
-- https://www.youtube.com/watch?v=jh_T5_o3qKE
-- https://www.youtube.com/watch?v=O07XFebgw-g
+
+- <a href="https://www.youtube.com/watch?v=jh_T5_o3qKE" target="_blank">JpaRepository - interface boladona do Spring</a>
+- <a href="https://www.youtube.com/watch?v=O07XFebgw-g" target="_blank">Injeção de Dependência e Inversão de Controle</a>
+- <a href="https://www.youtube.com/watch?v=WhJbchqq5bU" target="_blank">Injeção de Dependência no Spring</a>
